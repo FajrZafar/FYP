@@ -1,0 +1,5 @@
+There are total 3 images.
+
+Caption for 1st image: a painting of a bird on a tree
+Caption for 2nd image: a pink and white label with the words wheating
+Caption for 3rd image: a painting of a man with a bird on his shoulder

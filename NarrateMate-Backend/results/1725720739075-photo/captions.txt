@@ -1,0 +1,5 @@
+There are total 3 images.
+
+Caption for 1st image: a book with a picture of a bird on it
+Caption for 2nd image: a pink and purple book with a white bird on it
+Caption for 3rd image: a painting of a man holding a bird

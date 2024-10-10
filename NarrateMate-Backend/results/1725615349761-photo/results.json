@@ -1,0 +1,378 @@
+{
+    "1725615349761-photo": [
+        {
+            "page": 1,
+            "text": "My Home and City",
+            "bounding_box": [
+                767.0,
+                50.0,
+                2324.0,
+                261.0
+            ],
+            "confidence": 0.8771701455116272
+        },
+        {
+            "page": 2,
+            "text": "Pre-reading",
+            "bounding_box": [
+                366.0,
+                297.0,
+                886.0,
+                362.0
+            ],
+            "confidence": 0.752244234085083
+        },
+        {
+            "page": 3,
+            "text": "Look at the pictures and guess about the text.",
+            "bounding_box": [
+                288.0,
+                405.0,
+                1923.0,
+                510.0
+            ],
+            "confidence": 0.9400126338005066
+        },
+        {
+            "page": 4,
+            "text": "le",
+            "bounding_box": [
+                239.0,
+                437.0,
+                302.0,
+                480.0
+            ],
+            "confidence": 0.24102783203125
+        },
+        {
+            "page": 5,
+            "text": "l am Ming. I am a Chinese girl. This is my",
+            "bounding_box": [
+                929.0,
+                697.0,
+                2681.0,
+                849.0
+            ],
+            "confidence": 0.9482976794242859
+        },
+        {
+            "page": 6,
+            "text": "home. I live in it with my family. I have one",
+            "bounding_box": [
+                926.0,
+                820.0,
+                2722.0,
+                971.0
+            ],
+            "confidence": 0.957176685333252
+        },
+        {
+            "page": 7,
+            "text": "brother.",
+            "bounding_box": [
+                912.0,
+                961.0,
+                1280.0,
+                1039.0
+            ],
+            "confidence": 0.7886718511581421
+        },
+        {
+            "page": 8,
+            "text": "My home is my favourite place. It is very",
+            "bounding_box": [
+                203.0,
+                1142.0,
+                1897.0,
+                1228.0
+            ],
+            "confidence": 0.9533066749572754
+        },
+        {
+            "page": 9,
+            "text": "airy and beautiful. It has two bedrooms.",
+            "bounding_box": [
+                204.0,
+                1259.0,
+                1860.0,
+                1349.0
+            ],
+            "confidence": 0.9518810510635376
+        },
+        {
+            "page": 10,
+            "text": "l have a bed and a study chair in my",
+            "bounding_box": [
+                194.0,
+                1417.0,
+                1741.0,
+                1504.0
+            ],
+            "confidence": 0.9458136558532715
+        },
+        {
+            "page": 11,
+            "text": "room. There is also bookshelf in it. I sit",
+            "bounding_box": [
+                193.0,
+                1540.0,
+                1829.0,
+                1628.0
+            ],
+            "confidence": 0.9543012976646423
+        },
+        {
+            "page": 12,
+            "text": "with my family and watch television. We ",
+            "bounding_box": [
+                188.0,
+                1667.0,
+                1887.0,
+                1752.0
+            ],
+            "confidence": 0.9437081217765808
+        },
+        {
+            "page": 13,
+            "text": "always keep our",
+            "bounding_box": [
+                1181.0,
+                1800.0,
+                1895.0,
+                1877.0
+            ],
+            "confidence": 0.881721019744873
+        },
+        {
+            "page": 14,
+            "text": "home neat and",
+            "bounding_box": [
+                1175.0,
+                1923.0,
+                1848.0,
+                1998.0
+            ],
+            "confidence": 0.8655598759651184
+        },
+        {
+            "page": 15,
+            "text": "clean. My mom",
+            "bounding_box": [
+                1180.0,
+                2045.0,
+                1876.0,
+                2128.0
+            ],
+            "confidence": 0.8652994632720947
+        },
+        {
+            "page": 16,
+            "text": "cooks very tasty",
+            "bounding_box": [
+                1179.0,
+                2173.0,
+                1905.0,
+                2254.0
+            ],
+            "confidence": 0.887451171875
+        },
+        {
+            "page": 17,
+            "text": "What is the meaning",
+            "bounding_box": [
+                2189.0,
+                2176.0,
+                2880.0,
+                2242.0
+            ],
+            "confidence": 0.8843005895614624
+        },
+        {
+            "page": 18,
+            "text": "of capital city?",
+            "bounding_box": [
+                2197.0,
+                2280.0,
+                2683.0,
+                2348.0
+            ],
+            "confidence": 0.8860676884651184
+        },
+        {
+            "page": 19,
+            "text": "food. I like to eat",
+            "bounding_box": [
+                1181.0,
+                2295.0,
+                1912.0,
+                2378.0
+            ],
+            "confidence": 0.9041573405265808
+        },
+        {
+            "page": 20,
+            "text": "noodles and fish.",
+            "bounding_box": [
+                1166.0,
+                2442.0,
+                1922.0,
+                2525.0
+            ],
+            "confidence": 0.8828381896018982
+        },
+        {
+            "page": 21,
+            "text": "l live in Beijing. It is the capital of China.",
+            "bounding_box": [
+                1170.0,
+                2607.0,
+                2851.0,
+                2675.0
+            ],
+            "confidence": 0.956695556640625
+        },
+        {
+            "page": 22,
+            "text": "lts roads are big and wide.  We keep our city clean. My city is very",
+            "bounding_box": [
+                161.0,
+                2752.0,
+                2955.0,
+                2800.0
+            ],
+            "confidence": 0.9702566862106323
+        },
+        {
+            "page": 23,
+            "text": "beautiful. The people of Beijing are very friendly. I love my home i",
+            "bounding_box": [
+                159.0,
+                2876.0,
+                2886.0,
+                2935.0
+            ],
+            "confidence": 0.9549002647399902
+        },
+        {
+            "page": 24,
+            "text": "and country very much.",
+            "bounding_box": [
+                166.0,
+                3010.0,
+                1207.0,
+                3095.0
+            ],
+            "confidence": 0.9160969853401184
+        },
+        {
+            "page": 25,
+            "text": "Fostereaching)",
+            "bounding_box": [
+                266.0,
+                3255.0,
+                894.0,
+                3337.0
+            ],
+            "confidence": 0.6844940185546875
+        },
+        {
+            "page": 26,
+            "text": "• Why should we keep our home and city clean?",
+            "bounding_box": [
+                159.0,
+                3385.0,
+                1958.0,
+                3427.0
+            ],
+            "confidence": 0.948585033416748
+        },
+        {
+            "page": 27,
+            "text": "How do we keep it clean?",
+            "bounding_box": [
+                228.0,
+                3497.0,
+                1214.0,
+                3553.0
+            ],
+            "confidence": 0.9091984629631042
+        },
+        {
+            "page": 28,
+            "text": "Ask students to read the story aloud. Ask different questions to assess their level of",
+            "bounding_box": [
+                360.0,
+                3616.0,
+                2652.0,
+                3635.0
+            ],
+            "confidence": 0.9761629700660706
+        },
+        {
+            "page": 29,
+            "text": "eaching",
+            "bounding_box": [
+                183.0,
+                3637.0,
+                330.0,
+                3670.0
+            ],
+            "confidence": 0.76220703125
+        },
+        {
+            "page": 30,
+            "text": "i",
+            "bounding_box": [
+                201.0,
+                3678.0,
+                297.0,
+                3709.0
+            ],
+            "confidence": 0.0821940079331398
+        },
+        {
+            "page": 31,
+            "text": "understanding. Relate the lesson to students' own experiences/ surroundings. It will help",
+            "bounding_box": [
+                358.0,
+                3684.0,
+                2793.0,
+                3706.0
+            ],
+            "confidence": 0.9737884402275085
+        },
+        {
+            "page": 32,
+            "text": "",
+            "bounding_box": [
+                178.0,
+                3729.0,
+                297.0,
+                3784.0
+            ],
+            "confidence": 0.0
+        },
+        {
+            "page": 33,
+            "text": "develop better Understanding of the text. Tell students that they should keep their homes and",
+            "bounding_box": [
+                361.0,
+                3752.0,
+                2908.0,
+                3773.0
+            ],
+            "confidence": 0.9771124720573425
+        },
+        {
+            "page": 34,
+            "text": "city clean.",
+            "bounding_box": [
+                365.0,
+                3849.0,
+                660.0,
+                3907.0
+            ],
+            "confidence": 0.8313176035881042
+        }
+    ]
+}

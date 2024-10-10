@@ -1,0 +1,312 @@
+{
+    "1725615787588-photo": [
+        {
+            "page": 1,
+            "text": "\nl was wrong. It was already too late, though I wouldn’t admit this, even to",
+            "bounding_box": [
+                331.0,
+                179.0,
+                2623.0,
+                401.0
+            ],
+            "confidence": 0.9546899795532227
+        },
+        {
+            "page": 2,
+            "text": "myself. >",
+            "bounding_box": [
+                183.0,
+                389.0,
+                387.0,
+                425.0
+            ],
+            "confidence": 0.7200151085853577
+        },
+        {
+            "page": 3,
+            "text": "t called Jean-Felix at the gallery. I asked what had happened to Alicia’s art",
+            "bounding_box": [
+                242.0,
+                540.0,
+                2609.0,
+                722.0
+            ],
+            "confidence": 0.9530261158943176
+        },
+        {
+            "page": 4,
+            "text": "materials—her paints, brushes, and canvases. “Is it all in storage?”",
+            "bounding_box": [
+                230.0,
+                652.0,
+                2261.0,
+                791.0
+            ],
+            "confidence": 0.9616071581840515
+        },
+        {
+            "page": 5,
+            "text": "After a slight pause he answered, “Well, no, actually … I have all her",
+            "bounding_box": [
+                324.0,
+                779.0,
+                2611.0,
+                945.0
+            ],
+            "confidence": 0.9651286005973816
+        },
+        {
+            "page": 6,
+            "text": "stuff.”",
+            "bounding_box": [
+                265.0,
+                922.0,
+                410.0,
+                1023.0
+            ],
+            "confidence": 0.7279731035232544
+        },
+        {
+            "page": 7,
+            "text": "“You do?”",
+            "bounding_box": [
+                292.0,
+                1070.0,
+                613.0,
+                1113.0
+            ],
+            "confidence": 0.7927024364471436
+        },
+        {
+            "page": 8,
+            "text": "\"Yes. I cleared out her studio after the trial – and got hold of everything",
+            "bounding_box": [
+                312.0,
+                1174.0,
+                2617.0,
+                1298.0
+            ],
+            "confidence": 0.9541269540786743
+        },
+        {
+            "page": 9,
+            "text": "worth keeping—all her preliminary sketches, notebooks, her easel, her oils,",
+            "bounding_box": [
+                226.0,
+                1274.0,
+                2610.0,
+                1389.0
+            ],
+            "confidence": 0.9632076621055603
+        },
+        {
+            "page": 10,
+            "text": "J’m storing it all for her.’’",
+            "bounding_box": [
+                207.0,
+                1405.0,
+                986.0,
+                1445.0
+            ],
+            "confidence": 0.9022571444511414
+        },
+        {
+            "page": 11,
+            "text": "“How nice of you.”",
+            "bounding_box": [
+                302.0,
+                1536.0,
+                921.0,
+                1599.0
+            ],
+            "confidence": 0.8977295160293579
+        },
+        {
+            "page": 12,
+            "text": "“So you’re following my advice? Letting Alicia paint?”",
+            "bounding_box": [
+                307.0,
+                1669.0,
+                2061.0,
+                1746.0
+            ],
+            "confidence": 0.9639020562171936
+        },
+        {
+            "page": 13,
+            "text": "“Yes. Whether anything will come of it remains to be seen.”",
+            "bounding_box": [
+                306.0,
+                1814.0,
+                2189.0,
+                1883.0
+            ],
+            "confidence": 0.9661004543304443
+        },
+        {
+            "page": 14,
+            "text": "“Oh, something will come of it. You’ll see. All I ask is you let me have a",
+            "bounding_box": [
+                305.0,
+                1957.0,
+                2625.0,
+                2013.0
+            ],
+            "confidence": 0.9731188416481018
+        },
+        {
+            "page": 15,
+            "text": "look at the finished paintings.”",
+            "bounding_box": [
+                223.0,
+                2062.0,
+                1179.0,
+                2132.0
+            ],
+            "confidence": 0.9290986657142639
+        },
+        {
+            "page": 16,
+            "text": "A strange note of hunger was in his voice. I had a sudden image of",
+            "bounding_box": [
+                306.0,
+                2213.0,
+                2624.0,
+                2243.0
+            ],
+            "confidence": 0.9639892578125
+        },
+        {
+            "page": 17,
+            "text": "Alicia’s pictures swaddled like babies in blankets in that storage room. Was i",
+            "bounding_box": [
+                232.0,
+                2305.0,
+                2636.0,
+                2355.0
+            ],
+            "confidence": 0.9599777460098267
+        },
+        {
+            "page": 18,
+            "text": "le really keeping them safe for her? Or because he couldn’t bear to let go of",
+            "bounding_box": [
+                229.0,
+                2404.0,
+                2627.0,
+                2451.0
+            ],
+            "confidence": 0.9672017097473145
+        },
+        {
+            "page": 19,
+            "text": "them?",
+            "bounding_box": [
+                236.0,
+                2503.0,
+                413.0,
+                2566.0
+            ],
+            "confidence": 0.6920340657234192
+        },
+        {
+            "page": 20,
+            "text": "\"Would you mind dropping off the materials to the Grove?\" I said.",
+            "bounding_box": [
+                313.0,
+                2641.0,
+                2630.0,
+                2699.0
+            ],
+            "confidence": 0.9654777646064758
+        },
+        {
+            "page": 21,
+            "text": "“Would that be convenient?” –",
+            "bounding_box": [
+                247.0,
+                2726.0,
+                1158.0,
+                2855.0
+            ],
+            "confidence": 0.8912078142166138
+        },
+        {
+            "page": 22,
+            "text": "“Oh, I—” There was a moment’s hesitation. I felt his anxiety.",
+            "bounding_box": [
+                322.0,
+                2880.0,
+                2247.0,
+                2957.0
+            ],
+            "confidence": 0.9591626524925232
+        },
+        {
+            "page": 23,
+            "text": "l found myself coming to his rescue. “Or I can pick them up from you if “",
+            "bounding_box": [
+                315.0,
+                3030.0,
+                2631.0,
+                3071.0
+            ],
+            "confidence": 0.9520214796066284
+        },
+        {
+            "page": 24,
+            "text": "that’s easier?”",
+            "bounding_box": [
+                264.0,
+                3107.0,
+                667.0,
+                3215.0
+            ],
+            "confidence": 0.8467658758163452
+        },
+        {
+            "page": 25,
+            "text": "“Yes, yes, perhaps that would be better.”",
+            "bounding_box": [
+                335.0,
+                3251.0,
+                1607.0,
+                3387.0
+            ],
+            "confidence": 0.9380905032157898
+        },
+        {
+            "page": 26,
+            "text": "\ndean-Felix was scared of coming here, scared of seeing Alicia. Why?.\nIt w",
+            "bounding_box": [
+                322.0,
+                3412.0,
+                2635.0,
+                3436.0
+            ],
+            "confidence": 0.9505872130393982
+        },
+        {
+            "page": 27,
+            "text": "What was there between them?",
+            "bounding_box": [
+                274.0,
+                3468.0,
+                1227.0,
+                3650.0
+            ],
+            "confidence": 0.9280598759651184
+        },
+        {
+            "page": 28,
+            "text": "What was it that he didn’t want to face? ",
+            "bounding_box": [
+                337.0,
+                3636.0,
+                1621.0,
+                3769.0
+            ],
+            "confidence": 0.9458348751068115
+        }
+    ]
+}

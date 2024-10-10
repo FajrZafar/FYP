@@ -1,0 +1,4 @@
+There are total 2 images.
+
+Caption for 1st image: a painting of a house with a red roof
+Caption for 2nd image: a painting of a bedroom with a bed and a bookcase

@@ -1,0 +1,290 @@
+{
+    "1725614082122-photo": [
+        {
+            "page": 1,
+            "text": "was wrong. It was already too late, though I wouldn’t admit this, even to",
+            "bounding_box": [
+                34.0,
+                146.0,
+                87.0,
+                948.0
+            ],
+            "confidence": 0.9646093845367432
+        },
+        {
+            "page": 2,
+            "text": "found myself coming to his rescue. “Or I can pick them up from you if the p",
+            "bounding_box": [
+                976.0,
+                156.0,
+                1020.0,
+                938.0
+            ],
+            "confidence": 0.9284985065460205
+        },
+        {
+            "page": 3,
+            "text": "\nean-Felix was scared of coming here, scared of seeing Alicia. Why?\nI was t",
+            "bounding_box": [
+                1094.0,
+                156.0,
+                1141.0,
+                941.0
+            ],
+            "confidence": 0.9631823301315308
+        },
+        {
+            "page": 4,
+            "text": "strange note of hunger was in his voice. I had a sudden image of",
+            "bounding_box": [
+                708.0,
+                157.0,
+                748.0,
+                928.0
+            ],
+            "confidence": 0.9688905477523804
+        },
+        {
+            "page": 5,
+            "text": "licia’s pictures swaddled like babies in blankets in that storage room. Was",
+            "bounding_box": [
+                738.0,
+                159.0,
+                779.0,
+                964.0
+            ],
+            "confidence": 0.9576843976974487
+        },
+        {
+            "page": 6,
+            "text": "e really keeping them safe for her? Or because he couldn’t bear to let go of",
+            "bounding_box": [
+                771.0,
+                161.0,
+                809.0,
+                975.0
+            ],
+            "confidence": 0.9656450152397156
+        },
+        {
+            "page": 7,
+            "text": "\"Yes. I cleared out her studio after the trial – and got hold of everything",
+            "bounding_box": [
+                373.0,
+                164.0,
+                416.0,
+                952.0
+            ],
+            "confidence": 0.9520152807235718
+        },
+        {
+            "page": 8,
+            "text": "slasaid",
+            "bounding_box": [
+                855.0,
+                164.0,
+                876.0,
+                243.0
+            ],
+            "confidence": 0.5267605185508728
+        },
+        {
+            "page": 9,
+            "text": "orth keeping—all her preliminary sketches, notebooks, her easel, her offic",
+            "bounding_box": [
+                411.0,
+                168.0,
+                455.0,
+                968.0
+            ],
+            "confidence": 0.9539827108383179
+        },
+        {
+            "page": 10,
+            "text": "Oh, something will come of it. You'll see. All I ask is you let me have",
+            "bounding_box": [
+                623.0,
+                170.0,
+                664.0,
+                939.0
+            ],
+            "confidence": 0.9713519215583801
+        },
+        {
+            "page": 11,
+            "text": "called Jean-Felix at the gallery, I asked what had happened to Alicia's ",
+            "bounding_box": [
+                160.0,
+                178.0,
+                206.0,
+                974.0
+            ],
+            "confidence": 0.9578626751899719
+        },
+        {
+            "page": 12,
+            "text": "fter a slight pause he answered, “Well, no, actually …. I have all",
+            "bounding_box": [
+                251.0,
+                184.0,
+                297.0,
+                944.0
+            ],
+            "confidence": 0.9360207915306091
+        },
+        {
+            "page": 13,
+            "text": "ould that be convenient?\" will be convenient?\" If the \"materials\" to the \"Grove?\" If ould that be convenient?\" If",
+            "bounding_box": [
+                849.0,
+                222.0,
+                926.0,
+                953.0
+            ],
+            "confidence": 0.8713967800140381
+        },
+        {
+            "page": 14,
+            "text": "naterials \"her paints, brushes, and canvases. \"Is it all in storage?\"",
+            "bounding_box": [
+                192.0,
+                271.0,
+                235.0,
+                977.0
+            ],
+            "confidence": 0.9498170614242554
+        },
+        {
+            "page": 15,
+            "text": "Oh, I—\" There was a moment's hesitation. I felt his anxiety.",
+            "bounding_box": [
+                934.0,
+                291.0,
+                972.0,
+                939.0
+            ],
+            "confidence": 0.9463245272636414
+        },
+        {
+            "page": 16,
+            "text": "\"Yes. Whether anything will come of it remains to be seen.",
+            "bounding_box": [
+                580.0,
+                318.0,
+                620.0,
+                949.0
+            ],
+            "confidence": 0.9598958492279053
+        },
+        {
+            "page": 17,
+            "text": "So you're following my advice? Letting Alicia paint?\"",
+            "bounding_box": [
+                532.0,
+                350.0,
+                570.0,
+                946.0
+            ],
+            "confidence": 0.9493607878684998
+        },
+        {
+            "page": 18,
+            "text": "What was it that he didn't want to face?",
+            "bounding_box": [
+                1209.0,
+                516.0,
+                1250.0,
+                945.0
+            ],
+            "confidence": 0.9480677843093872
+        },
+        {
+            "page": 19,
+            "text": "es, yes, perhaps that would be better.",
+            "bounding_box": [
+                1067.0,
+                524.0,
+                1108.0,
+                930.0
+            ],
+            "confidence": 0.944873034954071
+        },
+        {
+            "page": 20,
+            "text": "at was there between them? '",
+            "bounding_box": [
+                1167.0,
+                639.0,
+                1203.0,
+                954.0
+            ],
+            "confidence": 0.8843180537223816
+        },
+        {
+            "page": 21,
+            "text": "ook at the finished paintings.'",
+            "bounding_box": [
+                663.0,
+                667.0,
+                698.0,
+                975.0
+            ],
+            "confidence": 0.9322620630264282
+        },
+        {
+            "page": 22,
+            "text": "storing it all for her.”",
+            "bounding_box": [
+                424.0,
+                713.0,
+                460.0,
+                954.0
+            ],
+            "confidence": 0.9187199473381042
+        },
+        {
+            "page": 23,
+            "text": "\"How nice of you.",
+            "bounding_box": [
+                482.0,
+                755.0,
+                514.0,
+                951.0
+            ],
+            "confidence": 0.8912417888641357
+        },
+        {
+            "page": 24,
+            "text": "that's easier?\"",
+            "bounding_box": [
+                1032.0,
+                838.0,
+                1063.0,
+                981.0
+            ],
+            "confidence": 0.8467371463775635
+        },
+        {
+            "page": 25,
+            "text": "\"You do?\"",
+            "bounding_box": [
+                313.0,
+                846.0,
+                341.0,
+                953.0
+            ],
+            "confidence": 0.8140092492103577
+        },
+        {
+            "page": 26,
+            "text": "myself",
+            "bounding_box": [
+                58.0,
+                926.0,
+                84.0,
+                985.0
+            ],
+            "confidence": 0.7451171875
+        }
+    ]
+}
